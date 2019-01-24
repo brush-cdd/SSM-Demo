@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/market_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_manager/market_manager_mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_manager/market_manager_pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_manager/market_manager_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_manager/market_manager_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/market_sso" charset="UTF-8" />
+  </component>
+</project>
